@@ -1,0 +1,17 @@
+{
+  "name": "instacat-app",
+  "displayName": "instacat-app",
+  "expo": {
+    "name": "instacat-app",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
